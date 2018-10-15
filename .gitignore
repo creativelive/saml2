@@ -3,4 +3,5 @@ node_modules
 lib-js
 lib-js-cov
 *.html
+.idea
 package-lock.json
